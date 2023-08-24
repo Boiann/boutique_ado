@@ -29,7 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-boiann-boutiqueado-gun9ie7y98u.ws-eu104.gitpod.io',
-    'boutique-ado-boiann-27a8e8a5dc96.herokuapp.com/', 'localhost']
+    'boutique-ado-boiann-27a8e8a5dc96.herokuapp.com', 'localhost']
 
 
 # Application definition
